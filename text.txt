@@ -1,0 +1,6 @@
+This file now contains sample text added on 2025-10-22.
+You can replace this text with your own. Example lines:
+- Hello, world!
+- This file will be used by the text-analyzer project.
+
+Tip: reopen this file in your editor to modify or delete these lines.
